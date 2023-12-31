@@ -14,11 +14,11 @@
 }
 body{
     background-color: var(--Yellow);
-}
-.cardone{
+    height:100vh;
     display: flex;
+    justify-content:center;
     justify-content: center;
-    transform: translateY(25%);
+    align-items:center;
 }
 .card{
     display: flex;
@@ -74,6 +74,13 @@ h2{
 }
 .person p{
     padding-left: 10px;
+}
+.attribution{
+    font-size: 11px;
+    text-align: center;
+}
+.attribution a{
+    color:hsl(228, 45%, 44%)
 }
 @media (max-width:400px){
     svg{
