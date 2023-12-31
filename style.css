@@ -14,11 +14,11 @@
 }
 body{
     background-color: var(--Yellow);
-    height:100vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
-    justify-content:center;
-    align-items:center;
+    justify-content: center;
+    align-items: center;
 }
 .card{
     display: flex;
