@@ -75,15 +75,6 @@ h2{
 .person p{
     padding-left: 10px;
 }
-.attribution {
-    padding-top: 130px;
-    font-size: 11px; 
-    text-align: center; 
-}
-.attribution a { 
-    color: #000; 
-    color: rgb(55, 55, 146);
-}
 @media (max-width:400px){
     svg{
         width: 250px;
